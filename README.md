@@ -6,6 +6,10 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue)](https://www.typescriptlang.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
+## 📚 Documentation
+
+Comprehensive documentation is available in [docs/COMPLETE_GUIDE.md](docs/COMPLETE_GUIDE.md).
+
 A lightweight, framework-agnostic React component library for displaying real-time WebSocket connection states with built-in auto-reconnection and exponential backoff.
 
 ## Features
